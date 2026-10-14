@@ -2,7 +2,7 @@
 
 A responsive promotional email for a fictional luxury travel brand (land expeditions × small-ship cruises). Brand, copy, logo and illustrations are invented for this portfolio project.
 
-**Live preview:** add your GitHub Pages link here
+**Live preview:** https://strukk311.github.io/larkhaven-email-template/
 
 | Desktop | Mobile | Mobile, dark mode |
 |---|---|---|
